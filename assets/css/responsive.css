@@ -1,0 +1,55 @@
+@media(max-width:1200px)
+{
+    #cart .product-image img 
+{
+    width: 100%;
+}
+}
+
+@media(max-width:992px) {
+    .container {
+        width: 90%;
+    }
+
+    #cart 
+    {
+        text-align: center;
+    }
+
+    /* #cart .billhead 
+    {
+        text-align: center;
+    } */
+
+    #cart .product-image {
+        width: 100%;
+    }
+
+    #cart .contains {
+        width: 100%;
+    }
+
+    #cart .contains .counter .txtbox
+    {
+        width: 40%;
+    }
+
+    #cart .heading 
+    {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #cart .counter 
+    {
+        justify-content: center;
+    } 
+
+    #cart table th 
+    {
+        font-size: 14px;
+        padding: 10px 0;
+    }
+
+
+}
