@@ -1,1 +1,5 @@
-I made this 'product cart- add or subtract products' project using HTML, CSS and Javascript. Here, I followed a product description of daraz.com.bd, created the display of the product name, its price and the bill where users can see the number of products the users order and how much they have to pay for the number of products they order. It also shows how much discount they can avail if they pay through bkash or Nagad (bkash and Nagad are MFSs- Mobile Financial Services).
+I developed this product cart system using HTML, CSS, and JavaScript, inspired by a real product listing on daraz.com.bd. The project includes:
+✅ Display of product name and price.
+✅Functionality to add or remove products from the cart.
+✅Real-time update of total items and cost.
+✅A discount system based on payment method (e.g., bKash and Nagad) — two popular Mobile Financial Services (MFS) in Bangladesh.
